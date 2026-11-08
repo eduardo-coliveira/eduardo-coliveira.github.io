@@ -1,0 +1,24 @@
+# ============================================================
+# Site settings — replace the placeholder values below
+# ============================================================
+title: Eduardo Carneiro Oliveira
+name: Eduardo Carneiro Oliveira
+email: educdoliveira@gmail.com
+description: >-
+  Personal website of Eduardo Carneiro Oliveira — PhD Candidate at Utrecht University, Netherlands.
+
+# For a user site (username.github.io) leave baseurl empty
+# and set url to https://<your-github-username>.github.io
+url: "https://eduardo-coliveira.github.io"
+baseurl: ""
+
+# ============================================================
+# Build settings — no need to change anything below
+# ============================================================
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
