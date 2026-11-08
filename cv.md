@@ -6,53 +6,49 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-<!-- To offer a downloadable PDF, put it at assets/files/cv.pdf and uncomment:
-[Download the full CV (PDF)](/assets/files/cv.pdf){: .btn }
--->
-
 ## Education
 
-**Utrecht University** — Netherlands
-: PhD in Software Engineering Education, 2022 – present. *Thesis: Supporting Students in Writing Good Quality Code through Refactoring*.
+**PhD in Software Engineering Education**
+: Utrecht University - Netherlands. 2022 – Present. *Thesis: Supporting Students in Writing Good Quality Code through Refactoring*.
   Supervisors: Dr. Hieke Keuning, Prof. Dr. Johan Jeuring.
   Research group: Software Technology for Learning and Teaching.
 
-**State University of Feira de Santana** — Brazil
-: MSc in Computer Science, 2021. *Thesis: Designing and Evaluating a Computational Thinking and Computing Attitudes Instrument for Educational Purposes*.
+**MSc in Computer Science**
+: State University of Feira de Santana - Brazil. 2021. *Thesis: Designing and Evaluating a Computational Thinking and Computing Attitudes Instrument for Educational Purposes*.
   Supervisor: Dr. Roberto Bittencourt.
   Research group: Laboratory for Education, Software and Systems.
 
-**State University of Feira de Santana** — Brazil
-: BSc in Computer Engineering, 2019. *Thesis: Introduction to Computational Thinking for K-12 Educators through Distance Learning*.
+**BSc in Computer Engineering**
+: State University of Feira de Santana - Brazil. 2019. *Thesis: Introduction to Computational Thinking for K-12 Educators through Distance Learning*.
   Supervisor: Dr. Roberto Bittencourt.
   Research groups: Laboratory for Education, Software and Systems.
-  Exchange program: Technological University Dublin — Ireland. BSc in Computer Science, 2015-2016.
+  Exchange program: BSc in Computer Science, Technological University Dublin - Ireland. 2015-2016.
 
 ## Experience
 
 2022 - Present
-**Computer Science Teacher**
-: Department of Information and Computing Sciences, Utrecht University, Netherlands.
-
-2018 - 2021
-**Programming Teacher**
-: Helyos International School, Feira de Santana, Brazil.
+**Computer Science Teacher** at Department of Information and Computing Sciences, Utrecht University. Utrecht - Netherlands.
+: Full list of taught courses below.
 
 2017 - 2021
-**Computer Science Teacher**
-: National Service for Industrial Training (SENAI), Feira de Santana, Brazil.
+**Computer Science Teacher** at National Service for Industrial Training (SENAI). Feira de Santana - Brazil.
+: Full list of taught courses below.
 
-Jun 2016 - Aug 2016
-**Intern in Software Development**
-: Fleet Connect, Dublin, Ireland. *Project: Development of a desktop system for business process automation.*
+2018 - 2021
+**Programming Teacher** at Helyos International School. Feira de Santana - Brazil.
+: Groups: Elementary and middle-school students.
+
+2016
+**Intern in Software Development** at Fleet Connect. Dublin - Ireland.
+: *Project: Development of a desktop system for business process automation.*
 
 2012 - 2015
-**Undergraduate researcher**
-: State University of Feira de Santana, Brazil. *Project: Calangos - Developing an educational game to support the teaching and learning of ecology at K-12 education.*
+**Undergraduate researcher** at State University of Feira de Santana. Feira de Santana - Brazil.
+: *Project: Calangos - Developing an educational game to support the teaching and learning of ecology at K-12 education.*
 
 2009 - 2010
-**Intern in Software Development**
-: Total Soluções e Sistemas, Feira de Santana, Brazil. *Project: Dincash Web: Development of a web-based system for commercial automation.*
+**Intern in Software Development** at Total Soluções e Sistemas. Feira de Santana - Brazil.
+: *Project: Dincash Web: Development of a web-based system for commercial automation.*
 
 ## Publications
 
@@ -182,23 +178,3 @@ Daily supervisor of **Bas de Boer** - MSc in Human-Computer Interaction.
 
 **Final Project** - Continuing Education Course.
 : Daily supervisor, 2019. 2 projects supervised.
-
-<!-- ## Talks
-
-- *[Talk title](link-to-slides)*, [Event/venue], [City], [Month Year].
-- *[Talk title]*, [Event/venue], [Month Year].
-
-## Academic service
-
-- Reviewer for [venue/journal], [Year(s)].
-- [Committee / organising role], [Year(s)].
-
-## Grants and awards
-
-- [Grant/award name], [awarding body], [Year].
-
-## Skills
-
-- **Programming**: [languages, frameworks, tools…]
-- **Methods**: [research methods, statistics, experimental design…]
-- **Languages**: [language (level)] -->

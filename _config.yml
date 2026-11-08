@@ -7,8 +7,6 @@ email: educdoliveira@gmail.com
 description: >-
   Personal website of Eduardo Carneiro Oliveira — PhD Candidate at Utrecht University, Netherlands.
 
-# For a user site (username.github.io) leave baseurl empty
-# and set url to https://<your-github-username>.github.io
 url: "https://eduardo-coliveira.github.io"
 baseurl: ""
 
@@ -16,7 +14,6 @@ baseurl: ""
 # Build settings — no need to change anything below
 # ============================================================
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title/
 
 exclude:
   - README.md

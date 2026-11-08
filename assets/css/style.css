@@ -97,18 +97,14 @@ a:hover { text-decoration: underline; }
 .post-meta { color: var(--muted); font-size: 0.9rem; margin-right: 0.5rem; }
 .post-excerpt { margin: 0.25rem 0 0; color: var(--muted); font-size: 0.95rem; }
 
-/* ---------- Blog post ---------- */
-.post-title { margin-bottom: 0.25rem; }
-
-/* ---------- Footer ---------- */
-.site-footer {
-  border-top: 1px solid var(--border);
-  padding: 1rem 0;
-  color: var(--muted);
-  font-size: 0.9rem;
+/* ---------- CV entries ---------- */
+dl dt {
+  font-weight: 600;
+  margin-top: 2rem;          /* space between entries */
 }
-.site-footer a { color: var(--muted); }
-
-@media (max-width: 600px) {
-  .hero { flex-direction: column-reverse; align-items: flex-start; }
+dl dt:first-of-type {
+  margin-top: 0;             /* no gap before the first entry */
+}
+dl dd {
+  margin-bottom: 0.25rem;
 }
