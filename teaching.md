@@ -16,7 +16,7 @@ permalink: /teaching/
 **Computational Thinking** - BSc in Information Science.
 : Lecturer and teaching assistant, 2023 - 2025.
 
-**Programing with Data** - MSc course for non-CS majors.
+**Programming with Data** - MSc course for non-CS majors.
 : Lecturer, 2023 - 2025.
 
 ### SENAI
